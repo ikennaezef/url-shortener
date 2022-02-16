@@ -32,7 +32,7 @@ Users should be able to:
 
 
 ![](./url-shortener.png)
-![](./url-shortener (1).png)
+![](./url-shortener(1).png)
 
 ### Links
 
