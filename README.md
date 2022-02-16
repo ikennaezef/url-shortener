@@ -31,8 +31,8 @@ Users should be able to:
 ### Screenshots
 
 
-![](./url_shortener.png)
-![](./url_shortener(1).png)
+![](./url-shortener.png)
+![](./url-shortener (1).png)
 
 ### Links
 
