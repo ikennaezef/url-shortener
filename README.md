@@ -1,4 +1,4 @@
-# Frontend Mentor - Shortly URL shortening API Challenge solution
+# Frontend Mentor - Shortly URL shortening API Challenge solution(with ReactJS)
 
 This is a solution to the [Shortly URL shortening API Challenge challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ikennaezef/url-shortener)
+- Solution URL: [Code on GitHub](https://github.com/ikennaezef/url-shortener)
 - Live Site URL: (https://ikennaezef.github.io/url-shortener/)
 
 ## My process
